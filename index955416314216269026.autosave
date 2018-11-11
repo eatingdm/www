@@ -1,0 +1,33 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+<div style="text-align:center">
+</head>
+  <!-- PLEASE NO CHANGES BELOW THIS LINE (UNTIL I SAY SO) -->
+  <script language="javascript" type="text/javascript" src="libraries/p5.js"></script>
+  <script language="javascript" type="text/javascript" src="Final.js"></script>
+  <!-- OK, YOU CAN MAKE CHANGES BELOW THIS LINE AGAIN -->
+  <body>
+  <div align="center">
+    <p><font size="20">Interactive Artwork</font></p>
+    <p>이 인터액티브 작품은 칸딘스키의 Small World 1을 베이스로 만든 작품입니다.<br>
+      </p>
+  </div>
+  <div align="center">
+    <p>
+      <!-- This line removes any default padding and style. 
+       You might only need one of these values set. -->
+      <style> 
+  body {padding: 0; margin: auto; width : 43%;} 
+    </style>
+    </p>
+  </div>
+  <div class="center">
+    <div align="center">
+      <script language="javascript" type="text/javascript" src="Final.js">
+      </script>
+      dd</div>
+  </div>
+  <p align="center">&nbsp;</p>
+</body>
+</html>
